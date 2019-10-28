@@ -1,1 +1,1 @@
-Editing: Just to check if we can pull this file now to Git
+Checking for Conflict: Just to check if we can pull this file now to Git
