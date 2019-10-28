@@ -1,1 +1,3 @@
+
 Checking for Conflict: Just to check if we can pull this file now to Git
+User 2 now change something here which user1 has already changes and commited: Just to check if we can pull this file now to Gitt
